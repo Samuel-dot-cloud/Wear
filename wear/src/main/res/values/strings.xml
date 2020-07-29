@@ -6,4 +6,13 @@
     -->
     <string name="hello_world">Hello Square World!</string>
     <string name="notify" tools:ignore="ExtraTranslation">Notify</string>
+    <string name="title_activity_notification_details">NotificationDetails</string>
+    <string name="action_settings">Settings</string>
+    <string name="reply_lable">My reply</string>
+    <string name="reply_was">Reply was:</string>
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
 </resources>
